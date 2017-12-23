@@ -3,4 +3,6 @@
 使用方法：
 - 在Application的onCreate()方法中对我们自己的CrashHandler进行初始化即可  
 	`CrashHandler crashHandler = CrashHandler.getInstance();`  
-    `crashHandler.init(getApplicationContext());`
+    `crashHandler.init(getApplicationContext());`  
+
+如有错误欢迎指正，邮箱yzytmac@163.com
