@@ -7,3 +7,5 @@
 		crashHandler.init(getApplicationContext());
 
 如有错误欢迎指正，邮箱yzytmac@163.com
+- 如果觉得有用，不吝啬在右上角给我一个Star。谢谢！！  
+![](https://raw.githubusercontent.com/yzytmac/yzytmac.github.io/master/images/star.png)  
